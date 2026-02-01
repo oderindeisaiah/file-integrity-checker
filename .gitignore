@@ -1,0 +1,10 @@
+# Ignore database and log files
+hashes.db
+integrity.log
+
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
